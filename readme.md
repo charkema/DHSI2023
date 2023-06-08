@@ -3,9 +3,9 @@
 1.Sketches 
 2.Grids
 3.Physical Hypertext 
-TWine
-Cut-out poetry 
-Tracery
-Scalar
-P5 Poetics
-[Bitsy](url) 
+4.Twine
+5.Cut-out poetry 
+6.Tracery
+7.Scalar
+8.P5 Poetics
+9.[Bitsy](url) 
